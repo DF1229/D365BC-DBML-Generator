@@ -1,0 +1,7 @@
+.alcache/
+.alpackages/
+.snapshots/
+*.app
+rad.json
+*.g.xlf
+*.flf

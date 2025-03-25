@@ -1,4 +1,5 @@
 {
     "al.incognito": true,
-    "al.browser": "Edge"
+    "al.browser": "Edge",
+    "al.rootNamespace": "DFR"
 }
